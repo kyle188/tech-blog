@@ -5,10 +5,6 @@
 
 This is a blog site meant for people with a passion for tech that would like to share their ideas and experiences about tech with others.  It utilizes handlebars, and sequelize while following the MVC structure.
 
-
-A CMS style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other posts as well. Following the MVC paradigm, using handlebars, and sequelize. Forked from my original GitHub account.
-
-
 ## Table of Contents
 
 -[Description](#Description)
